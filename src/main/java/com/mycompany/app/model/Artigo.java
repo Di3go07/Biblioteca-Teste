@@ -1,7 +1,5 @@
 
 package com.mycompany.app.model;
-import java.util.ArrayList;
-import java.util.List;
 
 
 public class Artigo {
